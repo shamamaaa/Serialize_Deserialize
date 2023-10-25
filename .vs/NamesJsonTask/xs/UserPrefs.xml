@@ -1,17 +1,15 @@
 ﻿<Properties StartupConfiguration="{C521CB3A-A2AF-4ED4-90C8-8D0FCC41D8C7}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workbench ActiveDocument="NamesJsonTask/Program.cs">
     <Files>
-      <File FileName="NamesJsonTask/Program.cs" Line="7" Column="36" />
+      <File FileName="NamesJsonTask/Program.cs" Line="59" Column="50" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="NamesJsonTask" expanded="True" />
-        </State>
+        <State name="__root__" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

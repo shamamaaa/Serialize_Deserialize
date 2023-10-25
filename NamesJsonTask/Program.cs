@@ -11,6 +11,7 @@ class Program
         string dirpath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", "Files");
         Directory.CreateDirectory(dirpath);
         jsonpath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", "Files", "names.json");
+
         if (!File.Exists(jsonpath))
         {
             File.Create(jsonpath).Close();
@@ -24,8 +25,17 @@ class Program
         Add("Xeyal");
         Add("Nigar");
         Add("Seid");
-
         Delete("Xeyal");
+
+        if (Search("Asiman"))
+        {
+            Console.WriteLine("Tapildi");
+        }
+        else
+        {
+            Console.WriteLine("Asiman adi yoxdur");
+        }
+
         ShowAllNames();
         Console.ReadLine();
     }
@@ -43,12 +53,11 @@ class Program
         Console.WriteLine($"{name} adli telebe add edildi");
     }
 
-    public static bool Search(Predicate<string> name)
+    public static bool Search(string search)
     {
         List<string> names = Deserialize();
-        return names.Exists(name);
+        return names.Any(s=> s.Contains(search));
     }
-
 
     public static void Delete(string name)
     {
