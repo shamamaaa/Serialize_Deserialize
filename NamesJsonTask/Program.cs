@@ -8,9 +8,9 @@ class Program
 
     static void Main(string[] args)
     {
-        string currentdirectory = Directory.GetCurrentDirectory();
-        jsonpath = Path.Combine(currentdirectory, "names.json");
-
+        string dirpath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", "Files");
+        Directory.CreateDirectory(dirpath);
+        jsonpath = Path.Combine(Directory.GetCurrentDirectory(), "..", "..", "..", "Files", "names.json");
         if (!File.Exists(jsonpath))
         {
             File.Create(jsonpath).Close();
@@ -23,15 +23,7 @@ class Program
         Add("Sabuhi");
         Add("Xeyal");
         Add("Nigar");
-
-        if (Search(name => name == "Asiman"))
-        {
-            Console.WriteLine("Asiman adli telebe var");
-        }
-        else
-        {
-            Console.WriteLine("Asiman tapilmadi");
-        }
+        Add("Seid");
 
         Delete("Xeyal");
         ShowAllNames();
@@ -70,7 +62,7 @@ class Program
         }
         else
         {
-            Console.WriteLine($"{name} adli telebe tapilmadi");
+            Console.WriteLine($"{name} adli telebe tapilmadi, silinmedi");
         }
     }
 
