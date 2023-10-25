@@ -8,9 +8,9 @@ class Program
 
     static void Main(string[] args)
     {
-
         string currentdirectory = Directory.GetCurrentDirectory();
-        jsonpath = Path.Combine(currentdirectory, "names.json");
+        jsonpath = ($@"{currentdirectory}\Files\names.json");
+
         if (!File.Exists(jsonpath))
         {
             File.Create(jsonpath).Close();

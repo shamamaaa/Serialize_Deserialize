@@ -60,11 +60,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/NamesJsonTask.csproj",
+      "projectUniqueName": "/Users/shamamaguliyeva/Desktop/Serialize_Deserialize/NamesJsonTask/NamesJsonTask.csproj",
       "projectName": "NamesJsonTask",
-      "projectPath": "/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/NamesJsonTask.csproj",
+      "projectPath": "/Users/shamamaguliyeva/Desktop/Serialize_Deserialize/NamesJsonTask/NamesJsonTask.csproj",
       "packagesPath": "/Users/shamamaguliyeva/.nuget/packages/",
-      "outputPath": "/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/",
+      "outputPath": "/Users/shamamaguliyeva/Desktop/Serialize_Deserialize/NamesJsonTask/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/shamamaguliyeva/.nuget/NuGet/NuGet.Config"
