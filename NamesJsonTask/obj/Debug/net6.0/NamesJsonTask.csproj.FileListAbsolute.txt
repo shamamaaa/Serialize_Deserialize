@@ -1,0 +1,17 @@
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/NamesJsonTask
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/NamesJsonTask.deps.json
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/NamesJsonTask.runtimeconfig.json
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/NamesJsonTask.dll
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/NamesJsonTask.pdb
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.csproj.AssemblyReference.cache
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.AssemblyInfoInputs.cache
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.AssemblyInfo.cs
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.csproj.CoreCompileInputs.cache
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.dll
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/refint/NamesJsonTask.dll
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.pdb
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.genruntimeconfig.cache
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/ref/NamesJsonTask.dll
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/bin/Debug/net6.0/Newtonsoft.Json.dll
+/Users/shamamaguliyeva/Desktop/NamesJsonTask/NamesJsonTask/obj/Debug/net6.0/NamesJsonTask.csproj.CopyComplete
